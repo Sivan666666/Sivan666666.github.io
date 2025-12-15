@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Xincheng Tang, a first-year PhD student at **Shanghai Jiao Tong University**, working on Robotics and Embodied AI. I am very fortunate to be advised by Professor **Ruigang Yang**. Before joining SJTU, I received my bachelor’s degree from **Soochow University**, where I was advised by Professors **Lei Yu** and **Yueyuan Zhang**.
+Hi, I'm **Xincheng Tang**, a first-year PhD student at **Shanghai Jiao Tong University**, working on Robotics and Embodied AI. I am very fortunate to be advised by Professor **Ruigang Yang**. Before joining SJTU, I received my bachelor’s degree from **Soochow University**, where I was advised by Professors **Lei Yu** and **Yueyuan Zhang**.
 
 My research interests lie in quadruped robot locomotion control and spatial intelligent navigation, as well as soft-body manipulation and human–robot interaction. My goal is to develop general control and perception–decision frameworks that enable stable, agile motion, dexterous interaction with deformable objects, and natural human–robot collaboration in real-world tasks.
 
