@@ -32,8 +32,8 @@ My research interests lie in quadruped robot locomotion control and spatial inte
 
 [Real Garment Benchmark (RGBench): A Comprehensive Benchmark for Robotic Garment Manipulation featuring a High-Fidelity Scalable Simulator](https://rgbench.github.io/)
 
-Wenkang Hu, **Xincheng Tang**, Yanzhi E, Yitong Li, Zhengjie Shu, Wei Li, Huamin Wang, Ruigang Yang
-
+Wenkang Hu*, **Xincheng Tang***, Yanzhi E, Yitong Li, Zhengjie Shu, Wei Li, Huamin Wang, Ruigang Yang
+*Equal contribution
 [**Project**](https://rgbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A Comprehensive Benchmark for Robotic Garment Manipulation featuring a High-Fidelity Scalable Simulator 
 </div>
