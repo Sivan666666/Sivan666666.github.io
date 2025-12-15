@@ -27,7 +27,7 @@ My research interests lie in quadruped robot locomotion control and spatial inte
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/overview_01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/overview_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real Garment Benchmark (RGBench): A Comprehensive Benchmark for Robotic Garment Manipulation featuring a High-Fidelity Scalable Simulator](https://rgbench.github.io/)
@@ -44,7 +44,7 @@ Wenkang Hu, **Xincheng Tang**, Yanzhi E, Yitong Li, Zhengjie Shu, Wei Li, Huamin
 # 🎖 Honors and Awards
 - *2024.12* It is a great honor to be awarded Soochow University’s 2024 Student of the Year！
 - *2024.12* Win national scholarship！
-- *2023.9* Congratulations on winning the National Championship in the Aerial Reconnaissance event of the RAICOM Competition.
+- *2023.9* Congratulations on winning the National Championship in the Aerial Reconnaissance event of the RAICOM Competition!!!
 
 # 💻 Internships
 - *2024.02 - 2024.07*, i had an internship at FASTLAB of Zhejiang University and had a wonderful time there.
