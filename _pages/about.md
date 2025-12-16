@@ -46,8 +46,8 @@ Wenkang Hu†, **Xincheng Tang†**, Yanzhi E, Yitong Li, Zhengjie Shu, Wei Li, 
 
 [Dynamic event-triggered observer design for quadcopters with uncertainties](https://rgbench.github.io/)
 
-Xincheng Tang, Yuan Sun, Yitong Li, Yueyuan Zhang, Yang Fei
-[**Project**](https://rgbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Xincheng Tang**, Yuan Sun, Yitong Li, Yueyuan Zhang, Yang Fei
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 - Dynamic event-triggered observer design for quadcopters with uncertainties
@@ -60,7 +60,7 @@ Xincheng Tang, Yuan Sun, Yitong Li, Yueyuan Zhang, Yang Fei
 [A Joint BERT-based Approach with Explicitly Incorporated Slot into Intent](https://rgbench.github.io/)
 
 **Xincheng Tang**, Yiyang Chen
-[**Project**](https://rgbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 - A Joint BERT-based Approach with Explicitly Incorporated Slot into Intent
@@ -73,7 +73,7 @@ Xincheng Tang, Yuan Sun, Yitong Li, Yueyuan Zhang, Yang Fei
 [Based on Iterative Terminal Sliding Mode Aerial Manipulation Control](https://rgbench.github.io/)
 
 Mengyang Zhao, **Xincheng Tang**, Shuguang Liu, Huaiyu Liu, Yueyuan Zhang
-[**Project**](https://rgbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 - Based on Iterative Terminal Sliding Mode Aerial Manipulation Control
