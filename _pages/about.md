@@ -41,6 +41,44 @@ Wenkang Hu†, **Xincheng Tang†**, Yanzhi E, Yitong Li, Zhengjie Shu, Wei Li, 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIMC</div><img src='images/TIMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic event-triggered observer design for quadcopters with uncertainties](https://rgbench.github.io/)
+
+Xincheng Tang, Yuan Sun, Yitong Li, Yueyuan Zhang, Yang Fei
+[**Project**](https://rgbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+- Dynamic event-triggered observer design for quadcopters with uncertainties
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCAE</div><img src='images/RCAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Joint BERT-based Approach with Explicitly Incorporated Slot into Intent](https://rgbench.github.io/)
+
+**Xincheng Tang**, Yiyang Chen
+[**Project**](https://rgbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+- A Joint BERT-based Approach with Explicitly Incorporated Slot into Intent
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RICAI</div><img src='images/RICAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Based on Iterative Terminal Sliding Mode Aerial Manipulation Control](https://rgbench.github.io/)
+
+Mengyang Zhao, **Xincheng Tang**, Shuguang Liu, Huaiyu Liu, Yueyuan Zhang
+[**Project**](https://rgbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+- Based on Iterative Terminal Sliding Mode Aerial Manipulation Control
+</div>
+</div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
